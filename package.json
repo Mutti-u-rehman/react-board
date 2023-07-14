@@ -1,0 +1,9 @@
+{
+  "name": "react-board",
+  "version": "1.0.0",
+  "description": "Finance Todo Application in react JS using vite cofigurations",
+  "main": "index.js",
+  "author": "Mutti u rehman (mutti.mughal@gmail.com)",
+  "license": "MIT",
+  "private": true
+}
